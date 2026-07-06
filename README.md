@@ -1,4 +1,4 @@
-## Hi there 👋 
+
 <h1 align="center">Hi 👋, I'm Boya Peddaiah</h1>
 <h3 align="center">Java Full Stack Developer | Passionate Learner | Open Source Enthusiast</h3>
 
