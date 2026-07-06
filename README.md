@@ -1,100 +1,157 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Boya Peddaiah</h1>
-<h3 align="center">Java Full Stack Developer | Passionate Learner | Open Source Enthusiast</h3>
+# Hi 👋, I'm Boya Peddaiah
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boyapeddaiah&label=Profile%20Views&color=0e75b6&style=flat" alt="boyapeddaiah" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Passionate+Programmer;Frontend+%26+Backend+Learner;Always+Learning+New+Technologies" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=boyapeddaiah&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/boyapeddaiah?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/boyapeddaiah?style=for-the-badge&logo=github"/>
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 Java Full Stack Developer
+
+🌱 Currently learning **Spring Boot & React**
+
+💻 Passionate about building Web Applications
+
+📚 Improving Data Structures & Algorithms
+
+🚀 Love solving coding challenges
+
+🎯 Goal: Become a Software Engineer at a top product company
+
+📍 Andhra Pradesh, India
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+</p>
+
+### ⚡ Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 📈 GitHub Analytics
 
-- 🌱 Currently learning **Java Full Stack Development**
-- 💻 Skilled in **Java, HTML, CSS, JavaScript, SQL**
-- 🚀 Interested in **Backend Development & Web Applications**
-- 📚 Continuously improving my coding and problem-solving skills
-- 🎯 Goal: Become a Professional Full Stack Java Developer
-- 📍 Andhra Pradesh, India
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=boyapeddaiah&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyapeddaiah&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boyapeddaiah&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🏆 GitHub Trophies
 
-### Languages
-- Java
-- JavaScript
-- SQL
+<p align="center">
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+<img src="https://github-profile-trophy.vercel.app/?username=boyapeddaiah&theme=algolia&no-frame=true&margin-w=15"/>
 
-### Backend
-- Java
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boyapeddaiah&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 📌 Automatic Data Preprocessing
+- Smart data preprocessing application
+- Data cleaning and transformation
+- User-friendly interface
+
+### 📌 Java Full Stack Projects
+- Core Java
 - JDBC
-- Servlets (Learning)
-
-### Database
+- Servlets
+- HTML
+- CSS
+- JavaScript
 - MySQL
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
+---
+
+# 🎯 2026 Goals
+
+✅ Master Java
+
+✅ Spring Boot
+
+✅ React
+
+✅ REST APIs
+
+✅ Microservices
+
+✅ Data Structures & Algorithms
+
+✅ Open Source Contributions
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=boyapeddaiah&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/boyapeddaiah">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boyapeddaiah&theme=tokyonight"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyapeddaiah&layout=compact&theme=tokyonight"/>
+<a href="mailto:YOUR-EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
 ---
 
-## 🚀 Current Goals
+<div align="center">
 
-- ✔ Master Java
-- ✔ Learn Spring Boot
-- ✔ Build Real-Time Projects
-- ✔ Improve DSA
-- ✔ Contribute to Open Source
+## 💭 Quote
 
----
+### *"Success doesn't come from what you do occasionally. It comes from what you do consistently."*
 
-## 📫 Connect with Me
+### ⭐ Thanks for visiting my profile! ⭐
 
-- GitHub: https://github.com/boyapeddaiah
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your email here)*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
----
-
-## 💡 Quote
-
-> "Consistency is more important than perfection."
-
-⭐ If you like my projects, don't forget to star them!
-<!--
-**boyapeddaiah/boyapeddaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
